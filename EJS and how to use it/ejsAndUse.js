@@ -5,6 +5,12 @@
 //          - File extension: '.ejs'
 //          - Instead of sending plain HTML, you can pass data to the view and EJS will render it dynamically.
 
+
+// Install 'EJS' :
+// npm i ejs        [In terminal]
+
+// Use in File :
+
 import express from "express";
 
 const app = express();
